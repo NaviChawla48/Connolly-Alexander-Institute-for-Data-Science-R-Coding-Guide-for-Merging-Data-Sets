@@ -1,0 +1,1 @@
+I created a R coding guide for the director of Tulane's Study Abroad Program as she was aiming to learn how to merge data sets in order to ultimately create a master data set of the university's complete study abroad program participants and the carbon emissions they released via their flight. Following this I assisted with statistical analysis.
